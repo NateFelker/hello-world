@@ -1,0 +1,89 @@
+{
+  "issues": [
+    {
+      "name": "Climate Change",
+      "rank": 1,
+      "trend": [68, 70, 72, 74, 76],
+      "organizations": [
+        {"name": "UNFCCC", "website": "https://unfccc.int"},
+        {"name": "Greenpeace", "website": "https://www.greenpeace.org"},
+        {"name": "350.org", "website": "https://350.org"},
+        {"name": "Sierra Club", "website": "https://www.sierraclub.org"},
+        {"name": "WWF", "website": "https://www.worldwildlife.org"},
+        {"name": "Climate Reality Project", "website": "https://www.climaterealityproject.org"},
+        {"name": "IPCC", "website": "https://www.ipcc.ch"},
+        {"name": "Friends of the Earth", "website": "https://foe.org"},
+        {"name": "Rainforest Alliance", "website": "https://www.rainforest-alliance.org"},
+        {"name": "CDP", "website": "https://www.cdp.net"}
+      ]
+    },
+    {
+      "name": "Economic Inequality",
+      "rank": 2,
+      "trend": [55, 57, 58, 60, 61],
+      "organizations": [
+        {"name": "Oxfam", "website": "https://www.oxfam.org"},
+        {"name": "World Bank", "website": "https://www.worldbank.org"},
+        {"name": "International Monetary Fund", "website": "https://www.imf.org"},
+        {"name": "Equality Trust", "website": "https://www.equalitytrust.org.uk"},
+        {"name": "UNDP", "website": "https://www.undp.org"},
+        {"name": "Brookings Institution", "website": "https://www.brookings.edu"},
+        {"name": "ILO", "website": "https://www.ilo.org"},
+        {"name": "Economic Policy Institute", "website": "https://www.epi.org"},
+        {"name": "WEF", "website": "https://www.weforum.org"},
+        {"name": "ActionAid", "website": "https://www.actionaid.org"}
+      ]
+    },
+    {
+      "name": "Public Health",
+      "rank": 3,
+      "trend": [60, 62, 61, 63, 65],
+      "organizations": [
+        {"name": "World Health Organization", "website": "https://www.who.int"},
+        {"name": "Doctors Without Borders", "website": "https://www.doctorswithoutborders.org"},
+        {"name": "CDC", "website": "https://www.cdc.gov"},
+        {"name": "Johns Hopkins Bloomberg School of Public Health", "website": "https://publichealth.jhu.edu"},
+        {"name": "Bill & Melinda Gates Foundation", "website": "https://www.gatesfoundation.org"},
+        {"name": "UNICEF", "website": "https://www.unicef.org"},
+        {"name": "Red Cross", "website": "https://www.redcross.org"},
+        {"name": "Gavi", "website": "https://www.gavi.org"},
+        {"name": "PATH", "website": "https://www.path.org"},
+        {"name": "World Bank Health", "website": "https://www.worldbank.org/en/topic/health"}
+      ]
+    },
+    {
+      "name": "Education Access",
+      "rank": 4,
+      "trend": [50, 51, 52, 53, 55],
+      "organizations": [
+        {"name": "UNESCO", "website": "https://en.unesco.org"},
+        {"name": "Education International", "website": "https://www.ei-ie.org"},
+        {"name": "Teach For All", "website": "https://teachforall.org"},
+        {"name": "World Bank Education", "website": "https://www.worldbank.org/en/topic/education"},
+        {"name": "Global Partnership for Education", "website": "https://www.globalpartnership.org"},
+        {"name": "Room to Read", "website": "https://www.roomtoread.org"},
+        {"name": "Save the Children", "website": "https://www.savethechildren.org"},
+        {"name": "Khan Academy", "website": "https://www.khanacademy.org"},
+        {"name": "UNICEF Education", "website": "https://www.unicef.org/education"},
+        {"name": "OECD Education", "website": "https://www.oecd.org/education"}
+      ]
+    },
+    {
+      "name": "Food Security",
+      "rank": 5,
+      "trend": [45, 46, 47, 48, 49],
+      "organizations": [
+        {"name": "World Food Programme", "website": "https://www.wfp.org"},
+        {"name": "Food and Agriculture Organization", "website": "https://www.fao.org"},
+        {"name": "Feeding America", "website": "https://www.feedingamerica.org"},
+        {"name": "Action Against Hunger", "website": "https://www.actionagainsthunger.org"},
+        {"name": "Heifer International", "website": "https://www.heifer.org"},
+        {"name": "USAID", "website": "https://www.usaid.gov"},
+        {"name": "Care", "website": "https://www.care.org"},
+        {"name": "World Bank Agriculture", "website": "https://www.worldbank.org/en/topic/agriculture"},
+        {"name": "Oxfam Hunger", "website": "https://www.oxfam.org/en/what-we-do/issues/hunger"},
+        {"name": "Farming First", "website": "https://farmingfirst.org"}
+      ]
+    }
+  ]
+}
