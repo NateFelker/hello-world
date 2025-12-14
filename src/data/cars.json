@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Tesla Model S Plaid",
+    "zero_to_sixty": 1.99,
+    "drivetrain": "AWD",
+    "price": 90990
+  },
+  {
+    "name": "Porsche Taycan Turbo S",
+    "zero_to_sixty": 2.4,
+    "drivetrain": "AWD",
+    "price": 194900
+  },
+  {
+    "name": "Ferrari SF90 Stradale",
+    "zero_to_sixty": 2.5,
+    "drivetrain": "AWD",
+    "price": 625000
+  },
+  {
+    "name": "Bugatti Chiron Super Sport 300+",
+    "zero_to_sixty": 2.3,
+    "drivetrain": "AWD",
+    "price": 3900000
+  },
+  {
+    "name": "Rimac Nevera",
+    "zero_to_sixty": 1.85,
+    "drivetrain": "AWD",
+    "price": 2400000
+  },
+  {
+    "name": "McLaren 765LT",
+    "zero_to_sixty": 2.7,
+    "drivetrain": "RWD",
+    "price": 382500
+  },
+  {
+    "name": "Lamborghini Huracán Tecnica",
+    "zero_to_sixty": 3.2,
+    "drivetrain": "RWD",
+    "price": 239000
+  },
+  {
+    "name": "Chevrolet Corvette Z06",
+    "zero_to_sixty": 2.6,
+    "drivetrain": "RWD",
+    "price": 105300
+  },
+  {
+    "name": "BMW M8 Competition",
+    "zero_to_sixty": 2.9,
+    "drivetrain": "AWD",
+    "price": 134100
+  },
+  {
+    "name": "Audi RS e-tron GT",
+    "zero_to_sixty": 3.1,
+    "drivetrain": "AWD",
+    "price": 145395
+  }
+]
